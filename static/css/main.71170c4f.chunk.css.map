@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Video.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,MACI,WACJ,CCFA,KACE,wBACF","file":"main.71170c4f.chunk.css","sourcesContent":[".card{\n    height: 100%;\n}","body{\n  background-color: #dc3545;\n}"]}
